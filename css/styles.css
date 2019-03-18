@@ -60,7 +60,7 @@ body {
 	justify-content: space-between;
 }
 
-.discription {
+.description {
 	margin-left: 5%;
 	padding-left: 7.5%;
 	width: 200.5%;
@@ -69,14 +69,14 @@ body {
 	color: #626262;
 }
 
-.discription h5 {
+.description h5 {
 	font-family: 'Ubuntu', sans-serif;
 	font-weight: 100;
 	text-transform: uppercase;
 	color: #c7c1b6;
 }
 
-.discription h2 {
+.description h2 {
 	font-family: 'Playfair Display', serif;
 	font-weight: normal;
 	font-size: xx-large;
@@ -138,13 +138,13 @@ body {
 	opacity: 0.9;
 }
 
-.discr {
+.descr {
 	font-family: 'Playfair Display', serif;
 	color: #626262;
 	line-height: 165%;
 }
 
-.discrp1 {
+.descrp1 {
 	padding-left: 5%;
 	padding-bottom: 3%;
 	padding-right: 5%;
